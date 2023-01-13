@@ -1,4 +1,4 @@
-#Simple OPENAI API Usage using PHP & Ajax
+# Simple OPENAI API Usage using PHP & Ajax
 
 In this tutorial you can retrieve data from openai to get several images using API from OPENAI.
 
